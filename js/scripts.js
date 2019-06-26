@@ -1,0 +1,1 @@
+$("#confirmBuy").on("click", function() {alert("¡¡Compra confirmada!!")});
